@@ -28,6 +28,16 @@ print(subtract(a, b))
 
 #returns -1.5
 ```
+## square function ##
+the square function takes a number and by calling the multiply fuction it multiplies this number by itself
+
+```
+x = 4
+print(square(x))
+
+#returns 16
+
+```
 
 ## Fibonacci function ##
 returns the n-th number in the fibonacci sequence starting at 0
