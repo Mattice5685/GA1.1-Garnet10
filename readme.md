@@ -6,7 +6,7 @@ a = 4
 b = 2.5
 print(multiply(a, b))
 
-#returns 9
+#returns 10
 ```
 ## add function ##
 it takes two variables of type float or int (a, b) and returns the addition
