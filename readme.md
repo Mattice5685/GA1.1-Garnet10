@@ -37,3 +37,7 @@ print(fibonacci(8))
 
 #returns 21
 ```
+
+## distance from zero function ##
+distance from zero function takes a variable of type float or int and subtracts it from zero and returns a-0
+
