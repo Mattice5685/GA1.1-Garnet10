@@ -1,3 +1,13 @@
+## add function ##
+it takes two variables of type float or int (a, b) and returns the addition
+
+```
+a = 1
+b = 100
+print(add(a, b))
+
+#returns 101
+```
 ## subtract function ##
 subtract takes two variables of type float or int and subtracts in order entered a, b in the function and returns a - b
 
