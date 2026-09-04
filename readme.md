@@ -31,4 +31,4 @@ print(subtract(a, b))
 ## distance from zero function ##
 distance from zero function takes a variable of type float or int and subtracts it from zero and returns a-0
 
-``
+```
