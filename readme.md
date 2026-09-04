@@ -28,3 +28,12 @@ print(subtract(a, b))
 
 #returns -1.5
 ```
+
+## Fibonacci function ##
+returns the n-th number in the fibonacci sequence starting at 0
+
+```
+print(fibonacci(8))
+
+#returns 21
+```
