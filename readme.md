@@ -38,3 +38,16 @@ print(square(x))
 #returns 16
 
 ```
+
+## Fibonacci function ##
+returns the n-th number in the fibonacci sequence starting at 0
+
+```
+print(fibonacci(8))
+
+#returns 21
+```
+
+## distance from zero function ##
+distance from zero function takes a variable of type float or int and subtracts it from zero and returns a-0
+
